@@ -1,0 +1,166 @@
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: rgb(249,251,254);
+    
+    
+}
+
+header{
+    height: 152px;
+}
+
+#headerimg{
+    margin-left: 32px;
+    margin-top: 37px;
+}
+
+#headerflex{
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav{
+    margin-top: 35px;
+    display: flex;
+    margin-right: 20px;
+}
+
+#nav > a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(73,110,128);
+    width: 100px;
+}
+
+#nav > a:hover{
+    background-color: rgb(231, 236, 245);
+}
+
+#free{
+    
+    background-color:rgb(48,200,214);
+    height :38px;
+    margin-top: -14px;
+    padding-top: 12px;
+    padding-left: 10px;
+    width: 110px;
+    border-radius: 10px;
+    
+    
+   
+
+
+}
+
+#free > a{
+    text-decoration: none;
+    color: white;
+    margin: 0;
+}
+
+
+h1{
+   
+    font-size: 48px;
+    margin: 0;
+    color: rgb(43,84,106);
+}
+#section1{
+    text-align: center;
+    margin:0 452px;
+}
+
+#mainflex{
+    display: flex;
+    
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+
+#p1 ::before{
+    content: url(/img/users-a679d89a2eda53806fb8..svg);
+}
+
+#p2 ::before{
+content: url(/img/countries-8efc3c1c1ec2f954738c..svg);}
+
+.mainicon{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+#p1 , #p2{ color: rgb(73,110,128);
+
+}
+
+#p1> span{
+    margin: 0;
+    font-weight: bold;
+    color :rgb(38, 59, 70);
+}
+#p2 > span{
+    margin: 0;
+    font-weight: bold;
+    color :rgb(29, 47, 56);
+}
+
+h3{
+    margin-top: 50px;
+    background-color:rgb(48,200,214);
+    color: white;
+ 
+  width: 190px;
+  padding: 10px;
+  margin-left: 160px;
+  color: white;
+  border-radius: 10px;
+}
+
+#section2 {
+    text-align: center;
+    height: 591px;
+    background-color:rgb(136,230,206);
+    
+
+}
+
+#section2 > img{
+    margin-top: 90px;
+}
+#section3 {
+   
+    text-align: center;
+}
+
+#h13{
+    text-align: center;
+    margin-top: 96px;
+    margin-bottom: 96px;
+
+}
+.h24{
+    text-align: center;
+   
+    color: rgb(43,84,106);
+    font-size: 30px;
+  
+    
+}
+
+#p14{
+    text-align: center;
+    color: rgb(73,110,128);
+    margin-bottom: 100px;
+
+}
+
+#section4{
+    text-align: center;
+  
+}
+
+#section5{
+    text-align: center;
+}
